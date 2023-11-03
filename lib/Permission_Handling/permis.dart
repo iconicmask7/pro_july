@@ -47,7 +47,6 @@ class Permiss extends StatelessWidget {
       ),
     );
   }
-
   void requestcamerapermission() {}
 
   void requestMultiplePermissions() {}
